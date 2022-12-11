@@ -1,6 +1,6 @@
 package ua.hillelit.homeworks.main;
 
-public class Main {
+public class Calculate {
 
     public double plus(double a, double b) {
         return a+b;
